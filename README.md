@@ -38,6 +38,6 @@
 
 ## 📫 Connect
 - ✉️ [Email](mailto:luis.zavalacortes85@gmail.com) 
-- 💼 [LinkedIn](www.linkedin.com/in/luis-angel-zavala-93b891380)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-angel-zavala-93b891380)  
 
 ⭐️ *Check out my repositories or connect with me!*  
