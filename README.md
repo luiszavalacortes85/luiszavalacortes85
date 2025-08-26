@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luis Angel Zavala
+# I'm Luis Angel Zavala
 
 💻 Backend Developer
 
@@ -11,9 +11,6 @@
 - Building **scalable microservices** and side projects  
 
 ---
-
-## 📊 GitHub Stats
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisangelzavala&show_icons=true&theme=radical)
 
 ## 📈 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisangelzavala&layout=compact&theme=tokyonight)
